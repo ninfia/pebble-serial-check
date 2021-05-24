@@ -64,9 +64,7 @@ def parse(code):
 
 
 "Original script by WNP78#2849 @ Rebble Discord"
-print(
-    "If your serial starts with 2 or 3 instead of Q or C, please don't use this."
-)
+print("If your serial starts with 2 or 3 instead of Q or C, please don't use this.")
 print("I can't check for information about those old-age relics.")
 i = input("Serial> ")
 while i != "":
